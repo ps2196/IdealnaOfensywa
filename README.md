@@ -1,7 +1,8 @@
 # README #
-### What is this repository for? ###
 
 Implementation of a genetic algorithm for finding best offensive trio (trio wiht most goals scored) within given overall limit.
+Goals scored are counted for trios as a whole and only goals scored when trio is playing together in a match counts.
+Distincions beetwen players is made only based on slected subset of attributes values.
 
 Original dataset can be found here: https://www.kaggle.com/hugomathien/soccer/home
 
